@@ -60,6 +60,8 @@ I also customized the layout with a background image, used consistent color them
 - `Final_Excel_portfolio_Dashboard.xlsx` – Interactive dashboard file  
 - `README.md` – Documentation (you’re reading it!)  
 - `Screenshot_dashboard.png` – Preview image of the dashboard
+- 
+📌 **Note**: If you see a warning like "File format and extension don't match," it's safe to open. The file is clean and works perfectly in Excel Desktop.
 
 ---
 
